@@ -12,6 +12,8 @@ This repo will serve as a compilation of resources that I found to be useful.
 [Coding Interview University](https://github.com/jwasham/coding-interview-university)<br/>
 [Project Ideas and Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources)<br/>
 [What happens when...?](https://github.com/alex/what-happens-when)<br/>
+[Machine Learning Guide](https://github.com/mikeroyal/Machine-Learning-Guide)<br/>
+[AWS Guide](https://github.com/mikeroyal/AWS-Guide)<br/>
 
 ## To Read
 [Matt Might's Blog](https://matt.might.net/articles/)<br/>
