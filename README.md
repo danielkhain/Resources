@@ -3,6 +3,7 @@ This repo will serve as a compilation of resources that I found to be useful.
 
 ## General
 [Online C++ Compiler](https://www.onlinegdb.com/online_c++_compiler)<br/>
+[Online Python Compiler](https://www.programiz.com/python-programming/online-compiler/)<br/>
 [GDB Quick Reference](https://users.ece.utexas.edu/~adnan/gdb-refcard.pdf)<br/>
 [.gitignore Creator](https://www.toptal.com/developers/gitignore)<br/>
 
@@ -18,6 +19,7 @@ This repo will serve as a compilation of resources that I found to be useful.
 ## To Read
 [Matt Might's Blog](https://matt.might.net/articles/)<br/>
 [Austin Henley's Blog](https://austinhenley.com/blog.html)<br/>
+[ByteByteGo Newsletter (System Design)](https://blog.bytebytego.com/)<br/>
 
 ## Other
 [Perl Coding Examples](http://sandbox.mc.edu/~bennet/perl/leccode/index.html)<br/>
