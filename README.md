@@ -15,6 +15,7 @@ This repo will serve as a compilation of resources that I found to be useful.
 [What happens when...?](https://github.com/alex/what-happens-when)<br/>
 [Machine Learning Guide](https://github.com/mikeroyal/Machine-Learning-Guide)<br/>
 [AWS Guide](https://github.com/mikeroyal/AWS-Guide)<br/>
+[Computer Science Books](https://github.com/AatmikJain/ComputerScienceBooks)<br/>
 
 ## To Read
 [Matt Might's Blog](https://matt.might.net/articles/)<br/>
