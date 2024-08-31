@@ -16,11 +16,13 @@ This repo will serve as a compilation of resources that I found to be useful.
 [Machine Learning Guide](https://github.com/mikeroyal/Machine-Learning-Guide)<br/>
 [AWS Guide](https://github.com/mikeroyal/AWS-Guide)<br/>
 [Computer Science Books](https://github.com/AatmikJain/ComputerScienceBooks)<br/>
+[Computer science online courses](https://github.com/ossu/computer-science)<br/>
 
 ## To Read
 [Matt Might's Blog](https://matt.might.net/articles/)<br/>
 [Austin Henley's Blog](https://austinhenley.com/blog.html)<br/>
 [ByteByteGo Newsletter (System Design)](https://blog.bytebytego.com/)<br/>
+[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)<br/>
 
 ## Other
 [Perl Coding Examples](http://sandbox.mc.edu/~bennet/perl/leccode/index.html)<br/>
