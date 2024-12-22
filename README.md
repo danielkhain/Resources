@@ -22,6 +22,7 @@
 [Austin Henley](https://austinhenley.com/blog.html)<br/>
 [Matt Might](https://matt.might.net/articles/)<br/>
 [All things distributed](https://www.allthingsdistributed.com/)<br/>
+[Christopher Olah](https://colah.github.io/)<br/>
 
 ## System Design
 [ByteByteGo Newsletter](https://blog.bytebytego.com/)<br/>
@@ -38,6 +39,7 @@
 ## Books
 [Computer Science Books](https://github.com/AatmikJain/ComputerScienceBooks)<br/>
 [Free programming books](https://github.com/EbookFoundation/free-programming-books)<br/>
+[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)<br/>
 
 ## Guides
 [Machine Learning Guide](https://github.com/mikeroyal/Machine-Learning-Guide)<br/>
